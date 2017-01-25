@@ -1,0 +1,21 @@
+body {
+    padding-top: 50px;
+ }
+ 
+ h1 {
+	 float: center;
+ }
+ 
+ .carousel-caption{
+    background: rgba(0,0,0,0.5);
+}
+
+.modal-content {
+   background-color: red;
+}
+
+.vcenter {
+    display: inline-block;
+    vertical-align: middle;
+    float: none;
+}
