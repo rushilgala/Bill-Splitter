@@ -1,4 +1,4 @@
-# CS139
+# CS139 - Web Development Technologies
 
 This is my code for my web application "Bill Splitter" for the CS139 Module at [DCS - Univerisity of Warwick](http://www2.warwick.ac.uk/fac/sci/dcs/)
 
